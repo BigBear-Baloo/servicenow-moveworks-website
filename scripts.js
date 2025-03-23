@@ -1,0 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
+    console.log('Website Loaded: ServiceNow Acquisition of Moveworks');
+    // Future interactive functionalities can be added here
+});

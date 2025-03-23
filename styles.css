@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, footer {
+    background-color: #005a87;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+section {
+    padding: 1rem 2rem;
+    background-color: white;
+    margin-bottom: 1rem;
+}
+
+.timeline-event {
+    background-color: #e0e7ff;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
